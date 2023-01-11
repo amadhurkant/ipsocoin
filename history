@@ -1,0 +1,7 @@
+This file is for maintenance of project history.
+
+Format : MAha (Month) - Paksha (moon present or not) - Tithi (Date) - Samvat (Year - Vikrama)
+
+-Maagh - Krishna - 5th - 2079
+@amadhurkant
+Added walletGenerateMulti for generating single wallet with multiple keys.
