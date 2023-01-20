@@ -4,8 +4,4 @@ Format : MAha (Month) - Paksha (moon present or not) - Tithi (Date) - Samvat (Ye
 
 -Maagh - Krishna - 5th - 2079
 @amadhurkant
-Added walletGenerateMulti for generating single wallet with multiple keys.
-
--Maagh - Krishna - 14th - 2079
-Added sigGenerate, sigVerify schnorr signatures
-Added justpy to project
+Added few more functionalities to checkHx
